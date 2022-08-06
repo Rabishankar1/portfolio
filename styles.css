@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+}
+.image-row {
+    /* height: 300px; */
+}
+a img:hover {
+    filter: brightness(0.7);
+}
